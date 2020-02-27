@@ -1,0 +1,9 @@
+body {
+  background-color: #e5e5f1;
+}
+
+.colorstrip {
+  height: 100px;
+  width: 100%;
+  background-color: #d2d2ef;
+}
